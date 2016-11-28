@@ -2,23 +2,26 @@
 * {
 	font-family: "Open Sans", sans;
 }
+
 .playingCard {	
 	width: 300px;
 	border-style: ridge;
 	box-shadow: 8px 8px 5px #cccccc;
 	padding: 10px;
 }
+
 .interestingFact {
 	font-style: italic;
 }
-span {
-	font-weight: bold; 
-}
+
 .retrieverList {
 	width: 285px;
 	border-style: ridge;
 	padding: 5px;
 }
-li {
-	list-style-type: none;
+.retriever_li {
+	font-weight: bold;
+}
+.retriever_stats{
+		list-style-type: none;
 }
